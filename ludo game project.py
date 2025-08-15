@@ -1,7 +1,4 @@
-"""
-Terminal-based Ludo game (Python)
-Drop this file into VS Code as `ludo_game.py` and run with:
-    python ludo_game.py
+ python ludo_game.py
 
 Features:
 - 2 to 4 players (human or CPU)
@@ -404,3 +401,4 @@ if __name__ == '__main__':
     print("Starting game...\n")
     time.sleep(0.7)
     game.play()
+
