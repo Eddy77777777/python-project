@@ -1,8 +1,3 @@
-import csv
-import datetime
-
-FILE_NAME = "expenses.csv"
-
 # Initialize CSV file with headers if it doesn't exist
 def init_file():
     try:
@@ -74,3 +69,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
